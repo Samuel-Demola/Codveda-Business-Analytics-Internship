@@ -1,0 +1,2 @@
+# Codveda-Business-Analytics-Internship
+Business Analytics internship projects for Codveda Technology covering data collection, EDA, SQL analytics, statistical analysis, predictive modelling, and fraud detection across 3 levels .
